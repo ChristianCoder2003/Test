@@ -14,4 +14,4 @@ blabla
 
 ## TUX
 
-!["Imagen del pingüino de Ubuntu"](C:\Users\DAW\OneDrive - EU Gimbernat\_DAW_Segundo\DAW\TUX)
+!["Imagen del pingüino de Ubuntu"](/TUX.png)
