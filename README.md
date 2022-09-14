@@ -4,6 +4,10 @@
 
 blabla
 
+- Sí
+- No
+- No sé
+
 ## Apartado B
 
 blabla
