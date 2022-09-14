@@ -2,11 +2,10 @@
 
 ## Apartado A
 
-blabla
-
-- Sí
-- No
-- No sé
+<html>
+  <head>
+  </head>
+</html>
 
 ## Apartado B
 
