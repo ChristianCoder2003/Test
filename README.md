@@ -14,4 +14,4 @@ blabla
 
 ## TUX
 
-!["Imagen del pingüino de Ubuntu"](/TUX.png)
+!["Imagen del pingüino de Ubuntu"](/Tux.png)
