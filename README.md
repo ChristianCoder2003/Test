@@ -7,6 +7,8 @@
       </head>
     </html>
 
+Ese es un código ``HTML``! no ``PHP``...
+
 ## Apartado B
 
 blabla
